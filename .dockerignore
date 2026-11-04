@@ -1,0 +1,6 @@
+node_modules
+demo
+*.db
+*.db-*
+uploads
+.git
